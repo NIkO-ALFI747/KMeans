@@ -1,0 +1,14 @@
+# IDE directory
+.vs/
+
+# Build directories
+bin/
+obj/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.cache

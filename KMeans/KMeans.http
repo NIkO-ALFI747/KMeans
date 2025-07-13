@@ -1,0 +1,6 @@
+@KMeans_HostAddress = http://localhost:5187
+
+GET {{KMeans_HostAddress}}/clustering/
+Accept: application/json
+
+###
